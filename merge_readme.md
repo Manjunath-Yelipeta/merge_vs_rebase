@@ -7,4 +7,4 @@
 * bonda batter
 * oil
 * chutney
-* pudina
+* pudina/onion
