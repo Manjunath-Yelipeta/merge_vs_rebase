@@ -4,3 +4,6 @@
 * nalla oil
 
 ## adding karam-bonda ingredients
+* bonda batter
+* oil
+* chutney
